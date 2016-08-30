@@ -1,0 +1,35 @@
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\bin\Debug\TnClient.exe.config
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\bin\Debug\TnClient.exe
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\bin\Debug\TnClient.pdb
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\obj\Debug\TnClient.Form1.resources
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\obj\Debug\TnClient.Properties.Resources.resources
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\obj\Debug\TnClient.csproj.GenerateResource.Cache
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\obj\Debug\TnClient.exe
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\obj\Debug\TnClient.pdb
+C:\Users\abaranov\Documents\Visual Studio 2013\Projects\TnClient\TnClient\obj\Debug\TnClient.csprojResolveAssemblyReference.cache
+C:\Users\wchien\Work\locus\TnClient\bin\Debug\TnClient.exe.config
+C:\Users\wchien\Work\locus\TnClient\obj\Debug\TnClient.exe
+C:\Users\wchien\Work\locus\TnClient\obj\Debug\TnClient.pdb
+C:\Users\wchien\Work\locus\TnClient\bin\Debug\TnClient.exe
+C:\Users\wchien\Work\locus\TnClient\bin\Debug\TnClient.pdb
+C:\Users\wchien\Work\locus\TnClient\obj\Debug\TnClient.csprojResolveAssemblyReference.cache
+C:\Users\wchien\Work\locus\TnClient\obj\Debug\TnClient.Form1.resources
+C:\Users\wchien\Work\locus\TnClient\obj\Debug\TnClient.Properties.Resources.resources
+C:\Users\wchien\Work\locus\TnClient\obj\Debug\TnClient.csproj.GenerateResource.Cache
+C:\Users\wchien\Work\LOCUS-TnClient\bin\Debug\TnClient.exe.config
+C:\Users\wchien\Work\LOCUS-TnClient\obj\Debug\TnClient.exe
+C:\Users\wchien\Work\LOCUS-TnClient\obj\Debug\TnClient.pdb
+C:\Users\wchien\Work\LOCUS-TnClient\bin\Debug\TnClient.exe
+C:\Users\wchien\Work\LOCUS-TnClient\bin\Debug\TnClient.pdb
+C:\Users\wchien\Work\LOCUS-TnClient\obj\Debug\TnClient.csprojResolveAssemblyReference.cache
+C:\Users\wchien\Work\LOCUS-TnClient\obj\Debug\TnClient.Form1.resources
+C:\Users\wchien\Work\LOCUS-TnClient\obj\Debug\TnClient.Properties.Resources.resources
+C:\Users\wchien\Work\LOCUS-TnClient\obj\Debug\TnClient.csproj.GenerateResource.Cache
+C:\Baranov\MyProjects\TnClient\bin\Debug\TnClient.exe.config
+C:\Baranov\MyProjects\TnClient\obj\Debug\TnClient.exe
+C:\Baranov\MyProjects\TnClient\obj\Debug\TnClient.pdb
+C:\Baranov\MyProjects\TnClient\bin\Debug\TnClient.exe
+C:\Baranov\MyProjects\TnClient\bin\Debug\TnClient.pdb
+C:\Baranov\MyProjects\TnClient\obj\Debug\TnClient.Form1.resources
+C:\Baranov\MyProjects\TnClient\obj\Debug\TnClient.Properties.Resources.resources
+C:\Baranov\MyProjects\TnClient\obj\Debug\TnClient.csproj.GenerateResource.Cache
